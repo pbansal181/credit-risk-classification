@@ -42,5 +42,6 @@ For analysis of the data, we follow the below steps:
 
 - The logistic regression model demonstrate exceptional performance for '0'(healthy loan) with perfect precision, recall and f1-score which is 1. For '1'(high-risk loans), the model also performs well with 87% precision, 89% recall and 88% f1-score.
 
-- The overall accuracy is 99% which suggests the model performs very well in terms of making correct predictions across both classes. In conclusion, based on this classification report, the logistic regression model is highly effective at predicting both "healthy loans" and "high-risk loans," achieving near-perfect accuracy and demonstrating strong performance metrics for both classes
+- The overall accuracy is 99% which suggests the model performs very well in terms of making correct predictions across both classes. In conclusion, based on this classification report, the logistic regression model is highly effective at predicting both "healthy loans" and "high-risk loans," achieving near-perfect accuracy and demonstrating strong performance metrics for both classes. Hence the model is highly recommended to use by the company.
+
 
